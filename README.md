@@ -11,3 +11,6 @@ afterEach(): ===> It runs after each test in the block.
 .only(): ===> To run a specified suite or test, append ".only" to the function.
 .skip(): To skip a specified suite or test, append ".skip" to the function. ("X" also works the same way)
 
+the test file location e2e ===> SearchCloverCareer.cy.js /  simpleGETRequest.cy.js 
+                          
+
